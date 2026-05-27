@@ -1,6 +1,6 @@
-# 🎮 Save Editor — 通用游戏存档编辑器
+# 🎮 Save Editor — 游戏存档编辑工具
 
-**支持 30+ 种引擎格式的自动识别、分析与修改。开箱即用，无需配置。**
+**主玩单机自用，玩到哪种更新哪种。目前已支持 30+ 种引擎格式的自动识别。**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -27,7 +27,6 @@
 | **Unreal Engine** (常见) | `.sav` | ✅ 格式识别 |
 | **Godot** (常见) | `.save` | ✅ 格式识别 |
 | **AliceSoft** | `.asd` | ✅ 格式识别 |
-| **YSSD (聖奴隷学園)** | `.sd` | ✅ 格式识别 |
 | *以及其他 20+ 种格式...* | | ✅ 格式识别 |
 
 ## 📦 安装
@@ -90,3 +89,7 @@ node analyze_save.js additem save/file1.rpgsave 15 3
 ## 📄 许可
 
 MIT
+
+---
+
+> 个人自用项目，随缘更新。遇到不支持的格式欢迎提 Issue。

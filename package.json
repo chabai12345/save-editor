@@ -1,7 +1,7 @@
 {
   "name": "save-editor",
   "version": "1.0.0",
-  "description": "",
+  "description": "Universal game save file analyzer and editor. Supports 30+ engines including RPG Maker MV/MZ, Ren'Py, Unity, Unreal, Godot, and more.",
   "main": "analyze_save.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

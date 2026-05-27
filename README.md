@@ -2,7 +2,7 @@
 
 **主玩单机自用，玩到哪种更新哪种。目前已支持 30+ 种引擎格式的自动识别。**
 
-本项目是 **Claude Code（Anthropic 官方 CLI）** 的一个 Skill（技能包），挂载在 `.claude/skills/` 目录下。在 Claude Code 中通过 `/save-editor <存档路径>` 直接调用，也可作为独立 CLI 工具运行。
+本项目是 **Claude Code（Anthropic 官方 CLI）** 的一个 Skill（技能包），挂载在 `.claude/skills/` 目录下。使用时直接把存档文件拖给 Claude，Claude 会自动识别并分析存档内容，无需手动输入命令。也可作为独立 CLI 工具运行。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 

@@ -1,0 +1,21 @@
+{
+  "name": "save-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analyze_save.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cbor": "^9.0.2",
+    "iconv-lite": "^0.6.3",
+    "lz-string": "^1.5.0",
+    "lz4js": "^0.2.0",
+    "msgpackr": "^2.0.2",
+    "unbzip2-stream": "^1.4.3"
+  }
+}
